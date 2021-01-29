@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blockchain-price--tracker/static/css/main.aadfe223.chunk.css",
+    "main.js": "/blockchain-price--tracker/static/js/main.9bccecbe.chunk.js",
+    "main.js.map": "/blockchain-price--tracker/static/js/main.9bccecbe.chunk.js.map",
+    "runtime-main.js": "/blockchain-price--tracker/static/js/runtime-main.cae797fd.js",
+    "runtime-main.js.map": "/blockchain-price--tracker/static/js/runtime-main.cae797fd.js.map",
+    "static/js/2.555b51ed.chunk.js": "/blockchain-price--tracker/static/js/2.555b51ed.chunk.js",
+    "static/js/2.555b51ed.chunk.js.map": "/blockchain-price--tracker/static/js/2.555b51ed.chunk.js.map",
+    "index.html": "/blockchain-price--tracker/index.html",
+    "static/css/main.aadfe223.chunk.css.map": "/blockchain-price--tracker/static/css/main.aadfe223.chunk.css.map",
+    "static/js/2.555b51ed.chunk.js.LICENSE.txt": "/blockchain-price--tracker/static/js/2.555b51ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae797fd.js",
+    "static/js/2.555b51ed.chunk.js",
+    "static/css/main.aadfe223.chunk.css",
+    "static/js/main.9bccecbe.chunk.js"
+  ]
+}
